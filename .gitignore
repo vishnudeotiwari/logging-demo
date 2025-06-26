@@ -1,0 +1,46 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/timing.properties
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# JDK
+*.jks
+
+# Build tools
+/build/
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Test reports
+/test-output/
+surefire-reports/
+failsafe-reports/
+
+# Groovy/Spock
+*.class
+*.groovy~
+
+# Misc
+*.swp
+*.swo
+
+# Local environment
+.env
+# IntelliJ IDEA project files
+.idea/libraries/
+.idea/vcs.xml
+logging-demo.iml
